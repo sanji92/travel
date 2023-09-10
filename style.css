@@ -1,0 +1,5 @@
+#hero {
+  height: 800px;
+  background-image:url(images/ocean.jpg);
+  background-size: cover;
+}
